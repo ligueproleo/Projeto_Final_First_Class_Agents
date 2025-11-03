@@ -22,6 +22,8 @@ Aplicação para análise e validação de documentos fiscais XML com inteligên
 4. **Faça login** com sua API Key do Google Gemini
 5. **Upload do XML** e análise automática
 
+## Conteúdo sob Licença MIT
+
 ## 📋 Requisitos
 
 - Python 3.8+
